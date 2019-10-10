@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_cb_topic_category">
+    <sys_cb_topic_category action="INSERT_OR_UPDATE">
+        <description>NeedItアプリケーションの仮想エージェントトピック</description>
+        <name>NeedIt Topics</name>
+        <sys_class_name>sys_cb_topic_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-09 02:08:35</sys_created_on>
+        <sys_id>8b99d3badb9000109d5f8a184896198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedItアプリケーションの仮想エージェントトピック</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_396630_needit_vi">4ff85b7adb9000109d5f8a18489619e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">4ff85b7adb9000109d5f8a18489619e4</sys_scope>
+        <sys_update_name>sys_cb_topic_category_8b99d3badb9000109d5f8a184896198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-09 02:08:35</sys_updated_on>
+    </sys_cb_topic_category>
+</record_update>
